@@ -1,3 +1,3 @@
 ## Olá, meu nome é Bruno Krügel!
 
-Sou estudante de Ciência da Computação na UFPR - Universidade Federal do Paraná.
+Bacharel em Ciência da Computação pela UFPR, com foco em desenvolvimento de alto desempenho. 
